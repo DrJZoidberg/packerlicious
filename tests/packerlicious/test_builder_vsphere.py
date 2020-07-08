@@ -1,6 +1,7 @@
 import pytest
 
-import packerlicious.community.builder as builder
+import packerlicious.builder as builder
+
 
 class TestVSphereIsoBuilder(object):
 
